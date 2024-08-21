@@ -1,5 +1,5 @@
 # Hi 👋, I'm Alain!
 
-A Freelance Frontend Engineer (based in Berlin), focused on React, Node.js and TypeScript 🚀
+A Freelance Frontend Engineer focused on TypeScript, React and Node.js 🚀
 
 https://alainperkaz.com/
